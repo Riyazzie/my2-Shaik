@@ -1,1 +1,5 @@
 # my2-Shaik
+
+### Hawaii
+
+In addition to Mauna Loa, **the park includes Kilauea, the world's most active volcano**, which offers scientists insights on the birth of the Hawaiian Islands and visitors views of dramatic volcanic landscapes. **Over half of the park is designated wilderness and provides unusual hiking and camping opportunities**
