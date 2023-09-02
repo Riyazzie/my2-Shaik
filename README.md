@@ -31,6 +31,6 @@ In this section, we will explore four sports that I recommend trying for various
 
 -------
 
+# Quotes By Scientists
 > "Science is not only a disciple of reason but, also, one of romance and passion." - *Stephen Hawking*
-
 > "The most incomprehensible thing about the world is that it is comprehensible." - *Albert Einstein*
