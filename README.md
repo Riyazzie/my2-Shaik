@@ -15,4 +15,4 @@ In addition to Mauna Loa, **the park includes Kilauea, the world's most active v
     * Fruits
     * Burger
 
-![Mystats.ms](Mystats.ms)
+![Mystats](Mystats.ms)
