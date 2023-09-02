@@ -10,7 +10,7 @@ In addition to Mauna Loa, **the park includes Kilauea, the world's most active v
 2. playing
 3. enjoy the view of sunset
 4. eat food 
-   *Chicken
-   *Fish
-   *Fruits
-   *Burger
+    *Chicken
+    *Fish
+    *Fruits
+    *Burger
