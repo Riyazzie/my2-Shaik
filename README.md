@@ -16,3 +16,17 @@ In addition to Mauna Loa, **the park includes Kilauea, the world's most active v
     * Burger
 
 [Mystatus](MyStats.md)
+
+---------------
+# Sports
+
+In this section, we will explore four sports that I recommend trying for various reasons. Each sport offers unique benefits and experiences, and the table below provides information of those.I believe that staying active through sports is a great way to maintain a healthy lifestyle.
+
+| Sport          | Reason                          | Weekly Hours |
+|----------------|---------------------------------|--------------|
+| Tennis         | it provides agility and fitness | 5-7 hours    |
+| Hiking         | reduce stress and make people healthy  | 3-5 hours    |
+| Swimming       | used to reduce weight           | 4-6 hours    |
+| Yoga           | body flexibility and mental peace  | 2-4 hours    |
+
+-------
