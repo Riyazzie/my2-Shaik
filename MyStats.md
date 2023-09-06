@@ -1,6 +1,6 @@
 # Riaz hussain
 
-Hi myself Riaz hussain, my friends usally calls me as celebrity. I love to sleep most of the time. 
+Hi myself Riyaz hussain, i love playing geshin impact and read novels.
 
- ![Riaz Hussain](file.jpg)
+ ![Riyaz Hussain](file.jpg)
 
